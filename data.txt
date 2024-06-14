@@ -1,0 +1,15 @@
+INSERT INTO gender VALUES ('Femenino'),
+('Masculino'),
+('Otro')
+
+
+INSERT INTO user VALUES ('Vanessa','Mora','vanemorahdez@gmail.com','pass','31072585645','1994-08-20',1,1,2,20 ),
+
+('Vanessa','Mora','vanemorahdez@gmail.com','pass','31072585645','1994-08-20',1,1,2,20 )
+
+
+
+
+1 Colombia
+2 Panama
+3 USA
